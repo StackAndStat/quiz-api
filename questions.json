@@ -1,0 +1,419 @@
+{
+  "questions": [
+    {
+      "question": "The concept of sovereignty was first clearly established in:",
+      "options": [
+        "Treaty of Paris (1783)",
+        "Treaty of Westphalia (1648)",
+        "League of Nations Covenant (1919)",
+        "Congress of Vienna (1815)"
+      ],
+      "correctOption": 1,
+      "points": 5
+    },
+    {
+      "question": "Sovereignty refers to:",
+      "options": [
+        "Supreme authority of a state over its territory and people",
+        "Economic control by international organizations",
+        "Absolute power of a king only",
+        "Military dominance over weaker states"
+      ],
+      "correctOption": 0,
+      "points": 5
+    },
+    {
+      "question": "Which scholar defined sovereignty as the absolute and perpetual power of a commonwealth?",
+      "options": [
+        "Jean Bodin",
+        "John Locke",
+        "Thomas Hobbes",
+        "Hans Morgenthau"
+      ],
+      "correctOption": 0,
+      "points": 5
+    },
+    {
+      "question": "Internal sovereignty refers to:",
+      "options": [
+        "Influence of NGOs",
+        "Power of the UN over states",
+        "State’s freedom from external interference",
+        "Authority of a state over its domestic affairs"
+      ],
+      "correctOption": 3,
+      "points": 5
+    },
+    {
+      "question": "External sovereignty is best described as:",
+      "options": [
+        "State’s control over citizens",
+        "Recognition of a state by other states",
+        "Power of regional organizations",
+        "A state’s economic self-sufficiency"
+      ],
+      "correctOption": 1,
+      "points": 5
+    },
+    {
+      "question": "The most widely accepted criteria of statehood were outlined in:",
+      "options": [
+        "Treaty of Westphalia",
+        "United Nations Charter",
+        "League of Nations Charter",
+        "Montevideo Convention (1933)"
+      ],
+      "correctOption": 3,
+      "points": 5
+    },
+    {
+      "question": "Which of the following is NOT a requirement of statehood?",
+      "options": [
+        "Stable government",
+        "Military superiority",
+        "Defined territory",
+        "Permanent population"
+      ],
+      "correctOption": 1,
+      "points": 5
+    },
+    {
+      "question": "Recognition by other states is classified as:",
+      "options": [
+        "Internal criterion of statehood",
+        "A non-legal requirement",
+        "A substitute for sovereignty",
+        "Constitutive or declaratory element"
+      ],
+      "correctOption": 3,
+      "points": 5
+    },
+    {
+      "question": "The capacity to enter into relations with other states is a requirement of:",
+      "options": ["Empire building", "Nationhood", "Nationalism", "Statehood"],
+      "correctOption": 3,
+      "points": 5
+    },
+    {
+      "question": "A failed state is one that:",
+      "options": [
+        "Cannot exercise authority effectively over its population",
+        "Has weak natural resources",
+        "Has no defined territory",
+        "Is not a member of the UN"
+      ],
+      "correctOption": 0,
+      "points": 5
+    },
+    {
+      "question": "A nation is primarily defined by:",
+      "options": [
+        "Common identity, language, culture, and history",
+        "Permanent population only",
+        "International recognition",
+        "Military strength"
+      ],
+      "correctOption": 0,
+      "points": 5
+    },
+    {
+      "question": "Which of the following is NOT a feature of a nation?",
+      "options": [
+        "Defined territory",
+        "Common history",
+        "Shared identity",
+        "Cultural bonds"
+      ],
+      "correctOption": 0,
+      "points": 5
+    },
+    {
+      "question": "A stateless nation is:",
+      "options": [
+        "A failed government",
+        "A state without sovereignty",
+        "A weak state in the UN",
+        "A group with common identity lacking an independent state"
+      ],
+      "correctOption": 3,
+      "points": 5
+    },
+    {
+      "question": "Nationalism can be defined as:",
+      "options": [
+        "Loyalty to global organizations",
+        "Economic independence only",
+        "Exclusive loyalty to rulers",
+        "Identification with one’s nation and support for its interests"
+      ],
+      "correctOption": 3,
+      "points": 5
+    },
+    {
+      "question": "Excessive nationalism often leads to:",
+      "options": [
+        "Colonialism",
+        "Peaceful coexistence",
+        "Weak state identity",
+        "International wars and conflicts"
+      ],
+      "correctOption": 3,
+      "points": 5
+    },
+    {
+      "question": "National interest is best described as:",
+      "options": [
+        "Religious demands",
+        "The desires of opposition parties",
+        "The opinions of NGOs",
+        "The goals and ambitions pursued by a state in international relations"
+      ],
+      "correctOption": 3,
+      "points": 5
+    },
+    {
+      "question": "Which scholar emphasized the concept of national interest in realism?",
+      "options": [
+        "Hans Morgenthau",
+        "Jean Bodin",
+        "Woodrow Wilson",
+        "Karl Marx"
+      ],
+      "correctOption": 0,
+      "points": 5
+    },
+    {
+      "question": "Foreign policy refers to:",
+      "options": [
+        "Strategies a state uses in its relations with other states",
+        "Policies of NGOs",
+        "Cultural heritage preservation",
+        "Domestic economic plans"
+      ],
+      "correctOption": 0,
+      "points": 5
+    },
+    {
+      "question": "Which is NOT a determinant of foreign policy?",
+      "options": [
+        "Domestic politics",
+        "Personal hobbies of citizens",
+        "Geography",
+        "National interest"
+      ],
+      "correctOption": 1,
+      "points": 5
+    },
+    {
+      "question": "The balance of power concept is central to:",
+      "options": [
+        "Feminist theory",
+        "Liberal institutionalism",
+        "Realist theory of international relations",
+        "Marxist theory"
+      ],
+      "correctOption": 2,
+      "points": 5
+    },
+    {
+      "question": "Balance of power aims at:",
+      "options": [
+        "Promoting cultural homogeneity",
+        "Establishing one global empire",
+        "Eliminating sovereignty",
+        "Preventing dominance by any single state"
+      ],
+      "correctOption": 3,
+      "points": 5
+    },
+    {
+      "question": "Capitalism as an ideology emphasizes:",
+      "options": [
+        "Classless society",
+        "State control of the economy",
+        "Collective farming only",
+        "Private ownership and free markets"
+      ],
+      "correctOption": 3,
+      "points": 5
+    },
+    {
+      "question": "Communism advocates:",
+      "options": [
+        "Free enterprise",
+        "Class struggle and common ownership",
+        "Private property rights",
+        "Individual profit maximization"
+      ],
+      "correctOption": 1,
+      "points": 5
+    },
+    {
+      "question": "The concept of Lebensraum was popularized by:",
+      "options": [
+        "Winston Churchill",
+        "Karl Marx",
+        "Adolf Hitler",
+        "Woodrow Wilson"
+      ],
+      "correctOption": 2,
+      "points": 5
+    },
+    {
+      "question": "Lebensraum literally means:",
+      "options": [
+        "Living space",
+        "Sovereignty",
+        "Nationalism",
+        "Balance of power"
+      ],
+      "correctOption": 0,
+      "points": 5
+    },
+    {
+      "question": "Imperialism refers to:",
+      "options": [
+        "Free trade between equal states",
+        "Cultural cooperation",
+        "Domination of one state over another politically, economically, or militarily",
+        "Isolationism"
+      ],
+      "correctOption": 2,
+      "points": 5
+    },
+    {
+      "question": "Which of the following was a major imperial power in Africa?",
+      "options": ["Britain", "Japan", "Mexico", "Brazil"],
+      "correctOption": 0,
+      "points": 5
+    },
+    {
+      "question": "Colonialism is best described as:",
+      "options": [
+        "Mutual cooperation",
+        "Equal partnership",
+        "International lawmaking",
+        "Direct political and economic control of one territory by another"
+      ],
+      "correctOption": 3,
+      "points": 5
+    },
+    {
+      "question": "The 'Scramble for Africa' was a major example of:",
+      "options": ["Sovereignty", "Colonialism", "Liberalism", "Globalization"],
+      "correctOption": 1,
+      "points": 5
+    },
+    {
+      "question": "Which of these is a core concept of International Relations?",
+      "options": [
+        "Statehood",
+        "All of the above",
+        "Sovereignty",
+        "Balance of Power"
+      ],
+      "correctOption": 1,
+      "points": 5
+    },
+    {
+      "question": "A protectorate under international law is:",
+      "options": [
+        "A failed democracy",
+        "A fully independent state",
+        "A territory controlled by another stronger state",
+        "A stateless nation"
+      ],
+      "correctOption": 2,
+      "points": 5
+    },
+    {
+      "question": "The League of Nations failed primarily because:",
+      "options": [
+        "It banned colonies",
+        "It had no headquarters",
+        "The United States never joined",
+        "It was too powerful"
+      ],
+      "correctOption": 2,
+      "points": 5
+    },
+    {
+      "question": "The Cold War was mainly an ideological struggle between:",
+      "options": [
+        "Colonialism and Globalization",
+        "Liberalism and Fascism",
+        "Nationalism and Realism",
+        "Capitalism and Communism"
+      ],
+      "correctOption": 3,
+      "points": 5
+    },
+    {
+      "question": "Which of the following is an attribute of sovereignty?",
+      "options": [
+        "Independence",
+        "Permanence",
+        "Absoluteness",
+        "All of the above"
+      ],
+      "correctOption": 3,
+      "points": 5
+    },
+    {
+      "question": "The UN Charter affirms the principle of sovereignty in:",
+      "options": ["Article 2(1)", "Article 33", "Article 55", "Article 10"],
+      "correctOption": 0,
+      "points": 5
+    },
+    {
+      "question": "Which state emerged in 2011 as the newest sovereign country?",
+      "options": ["Kosovo", "Palestine", "Eritrea", "South Sudan"],
+      "correctOption": 3,
+      "points": 5
+    },
+    {
+      "question": "The main objective of foreign policy is to:",
+      "options": [
+        "Safeguard national interests abroad",
+        "Promote personal ambitions of leaders",
+        "Limit international cooperation",
+        "Encourage domestic opposition"
+      ],
+      "correctOption": 0,
+      "points": 5
+    },
+    {
+      "question": "Colonial powers justified colonialism under the guise of:",
+      "options": [
+        "Balance of power",
+        "Statehood recognition",
+        "Civilizing mission",
+        "Popular sovereignty"
+      ],
+      "correctOption": 2,
+      "points": 5
+    },
+    {
+      "question": "A bipolar world order refers to:",
+      "options": [
+        "Two dominant powers",
+        "Absence of power blocks",
+        "A unipolar system",
+        "Multiple centers of power"
+      ],
+      "correctOption": 0,
+      "points": 5
+    },
+    {
+      "question": "Which of the following best describes globalization?",
+      "options": [
+        "The isolation of states from each other",
+        "Increasing interconnectedness of states in politics, economics, and culture",
+        "The decline of international trade",
+        "Complete sovereignty without external influence"
+      ],
+      "correctOption": 1,
+      "points": 5
+    }
+  ]
+}
