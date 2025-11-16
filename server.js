@@ -17,7 +17,7 @@ app.get("/api/quiz", (req, res) => {
 
 // Health check
 app.get("/", (req, res) => {
-  res.send("IR Quiz API is running!");
+  res.send("IR Quiz API is running!. Go to /api/quiz");
 });
 
 app.listen(PORT, () =>
